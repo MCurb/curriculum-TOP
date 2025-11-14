@@ -16,7 +16,7 @@ A significant part of computer science is dedicated to sorting data. An algorith
 
 Merge sort is one such sorting algorithm, and can be much faster than other algorithms such as bubble sort on the right data sets. Essentially merge sort recurses through an array of unsorted data until it reaches its smallest sub-set, a single item. Of course an array with a single item is considered sorted. Merge sort then merges the single items back together in sorted order. Pretty clever!
 
-asdfa
+To understand what the merge sort algorithm is doing check out these stuff: asdfa
 
 1. Watch this introductory video on [merge sort from Harvard's CS50x course](https://youtu.be/Ns7tGNbtvV4).
 1. Watch another explanation of [how merge sort works](https://www.youtube.com/live/iCx3zwK8Ms8?si=t7z6bEv_ZXIJDoHU&t=6550) (watch only until 2:04:05), this time from a part of a Harvard CS50x lecture.

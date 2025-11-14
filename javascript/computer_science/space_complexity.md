@@ -12,7 +12,6 @@ This section contains a general overview of topics that you will learn in this l
 
 - What do we mean by space complexity.
 - Why is it important to consider how our algorithm uses memory space.
-- How do we measure space complexity.
 
 ### What do we mean by space complexity?
 

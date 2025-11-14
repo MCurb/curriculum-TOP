@@ -20,8 +20,6 @@ This section contains a general overview of topics that you will learn in this l
 
 1. It'll also prove beneficial to go through the [Constraint Validation docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Constraint_validation).
 
-1. For reference, [W3Schools' page on the JavaScript validation API](https://www.w3schools.com/js/js_validation_api.asp) covers things in a more concise format. These functions were explained in the previous article. Typically, with HTML forms, the inputs are validated upon form submission, but you can use these functions to check validity whenever you like (such as when a user clicks or tabs out of a specific input field).
-
 #### Warmup
 
 Go back to your 'Library' project and add validation to that form! Display a custom error message when the user tries to submit an empty form field (e.g. "The author name must be filled!"). Don’t forget to use the git branch workflow you learned in [Revisiting Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors) from Foundations to work on a new feature.
